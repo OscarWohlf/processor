@@ -1,12 +1,5 @@
 #!/usr/bin/python3
 
-"""
-CS-UY 2214
-Adapted from Jeff Epstein
-Starter code for E20 simulator
-sim.py
-"""
-
 from collections import namedtuple
 import re
 import argparse
